@@ -13,6 +13,8 @@
 
 iwconfig wlan0 power off
 
+sudo chown mosquitto /var/log/mosquitto/mosquitto.log 
+
 # Print the IP address
 _IP=$(hostname -I) || true
 if [ "$_IP" ]; then
