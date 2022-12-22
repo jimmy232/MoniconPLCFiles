@@ -79,7 +79,7 @@ module.exports = {
         "users": [
             {
                 "username": "admin",
-                "password": "$2b$08$YwjVP/LV3NtI170FwKconO2jsrsNnlHQQ8TkEbsTvZH/32MjVbs6i",
+                "password": "$2a$08$6Mhd0GGDSYvzp0q5pcCG7uSwX2KcJqGE.Cmiqfvns0KodQtyhJnzu",
                 "permissions": "*"
             }
         ]
